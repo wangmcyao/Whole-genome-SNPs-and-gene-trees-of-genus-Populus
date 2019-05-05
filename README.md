@@ -3,6 +3,6 @@ A final set of 12.93 million biallelic SNPs based on whole-genome sequencing dat
 
 c12.genetree                  Gene trees based on the first and second codon positions of 5305 single copy genes in genus Populus
 
-c3.genetree                   Gene trees based on the third codon positions of 5305 single copy genes in genus Populus
+c3.genetree                  Gene trees based on the third codon positions of 5305 single copy genes in genus Populus
 
 cds.genetree                  Gene trees based on the complete coding sequences of 5305 single copy genes in genus Populus
