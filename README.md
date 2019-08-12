@@ -9,8 +9,8 @@ Scaffold.vcf.gz: SNPs located on all scaffolds
 
 In all vcf files, 'AC' refers to Allele count, 'GT' referes to genotype and 'DP' refers to depth
 
-c12.genetree: Gene trees based on the first and second codon positions of 5305 single copy genes in genus Populus
+c12.genetree.withbs: Bootstrapped gene trees based on the first and second codon positions of 5305 single copy genes in genus Populus
 
-c3.genetree: Gene trees based on the third codon positions of 5305 single copy genes in genus Populus
+c3.genetree.withbs: Bootstrapped gene trees based on the third codon positions of 5305 single copy genes in genus Populus
 
-cds.genetree: Gene trees based on the complete coding sequences of 5305 single copy genes in genus Populus
+cds.genetree.withbs: Bootstrapped gene trees based on the complete coding sequences of 5305 single copy genes in genus Populus
